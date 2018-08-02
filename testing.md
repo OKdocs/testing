@@ -15,7 +15,7 @@ The source code is known the the tester and can be analyzed. Inputs are chosen t
 
 #### API testing
 APIs get tested by providing input to API in a bread range including edge cases like unexpected or extreme inputs. Can even be performed on 3rd person APIs from dependencies. Best suited for test automatization.
-- [unit testing][Unit testing]
+- [unit testing](#unit testing)
 - functional testing - multiple functions
 - load testing - simulating large amout of users or big data processing
 - runtime error detection - race conditions, exceptions, resource leaks
@@ -35,7 +35,7 @@ Intentionally injection faults into the system to see how it fails and recovers.
 - stress testing
 - fuzz testing
 
-## [Unit testing]
+## Unit testing
 
 Test cases are provided to function and result is checked against expectation. Should be build with while progamming, can even be written before each function is written.
 
