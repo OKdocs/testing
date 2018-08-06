@@ -129,7 +129,7 @@ Simulate attacker finding vulnerabilities, or be the hacker or hire white-hat ha
 Broad spectrum of defect prevention in order to reduce software development risks, time and costs. It performed by the developer during construction phase. Can include but not limited to: static code analysis, data flow analysis, metrics analysis, peer code reviews, unit testing, code coverage analysis, taceability, and other software testing practices.
 
 ### A/B testing
-To versions of software are compared. Custumers are either routed to one or the other. Data is collected to deternime which version is better.
+Two versions of software are compared. Custumers are either routed to one or the other. Data is collected to deternime which version is better.
 
 ### Concurrent testing
 Test whether program runs correctly when running concurrent.
